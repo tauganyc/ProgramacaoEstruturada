@@ -1,4 +1,3 @@
-#define pi 3.14;
 void oi();
 int soma(int a,int b);
 int diminui(int a,int b);
@@ -8,5 +7,5 @@ int ehPrimo(int num);
 int menor(int a, int b);
 void printPrimos(int inicio, int fim);
 double circunferencia(double raio);
-double diamentro(double a);
+double diametro(double a);
 double area(double a);

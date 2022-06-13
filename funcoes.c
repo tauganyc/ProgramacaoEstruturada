@@ -46,10 +46,14 @@ void printPrimos(int inicio, int fim){
     }
 }
 double circunferencia(double raio){
+    double pi=3.14;
     double a=2*pi*raio;
     return a*raio;
 }
-double diamentro(double a){
-    return
+double diametro(double raio){
+    return raio*2;
 }
-double area(double a);
+double area(double raio){
+    double pi=3.14;
+    return pi*(raio*raio);
+}
