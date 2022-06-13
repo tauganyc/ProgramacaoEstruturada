@@ -1,0 +1,12 @@
+#define pi 3.14;
+void oi();
+int soma(int a,int b);
+int diminui(int a,int b);
+int quadrado(int a);
+int cubo(int a);
+int ehPrimo(int num);
+int menor(int a, int b);
+void printPrimos(int inicio, int fim);
+double circunferencia(double raio);
+double diamentro(double a);
+double area(double a);
